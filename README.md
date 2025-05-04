@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kanishkmehta29
 - 👀 I’m interested in web development and Machine Learning
 - 🌱 I’m currently learning Devops
-- 🔤 I know C++, Golang, Python, ReactJS, NodeJS, ExpressJS, MongoDB bit of Docker
+- 🔤 I know C++, Golang, Python, ReactJS, NodeJS, ExpressJS, MongoDB and a bit of Docker
 - 💞️ I’m looking to collaborate on Deep Learning and webdev projects
 - 📫 How to reach me ...
 
