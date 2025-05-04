@@ -1,13 +1,11 @@
-# 👋 Hi there, I'm Kanishk!
+- 👋 Hi, I’m @kanishkmehta29
+- 👀 I’m interested in web development and Machine Learning
+- 🌱 I’m currently learning Devops
+- 🔤 I know C++, Golang, Python, ReactJS, NodeJS, ExpressJS, MongoDB bit of Docker
+- 💞️ I’m looking to collaborate on Deep Learning and webdev projects
+- 📫 How to reach me ...
 
-🎓 I'm a 3rd-year Computer Science undergrad at **IIT Guwahati**  
-💻 Passionate about **Web Development**, and **Machine Learning** 
-
----
-
-## 🚀 Tech Stack
-
-- **Languages:** C++, Golang, Python, JavaScript, TypeScript
-- **Web Dev:** React, Node.js, Express, MongoDB, HTML/CSS  
-- **Tools & Frameworks:** Git, Docker 
-- **ML & Data:** NumPy, pandas
+<!---
+kanishkmehta29/kanishkmehta29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
